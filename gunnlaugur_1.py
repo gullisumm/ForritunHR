@@ -1,3 +1,3 @@
-x = 90
+y = 0
 
-print(x)
+print(y)
