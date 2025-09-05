@@ -1,3 +1,3 @@
-x = 100
+y = 00
 bla = x
-print(x)
+print(y)
