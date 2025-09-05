@@ -1,3 +1,3 @@
-x = 10
+y = 5000
 
-print(x)
+print(y)
