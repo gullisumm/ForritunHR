@@ -1,3 +1,3 @@
-x = 10
-
+x = 100
+bla = x
 print(x)
